@@ -4,14 +4,14 @@
 
 - ### Viz 1
 
-![](./graphs/viz_1.png)
+  ![](./graphs/viz_1.png)
 
 
 - ### Viz 2
 
-![](./graphs/viz_2.png)
+  ![](./graphs/viz_2.png)
 
 
 - ### Viz 3
 
-![](./graphs/viz_3.png)
+  ![](./graphs/viz_3.png)
